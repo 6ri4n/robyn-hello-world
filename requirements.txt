@@ -1,5 +1,4 @@
 dill==0.3.8
-gunicorn==22.0.0
 inquirerpy==0.3.4
 multiprocess==0.70.14
 nestd==0.3.1
